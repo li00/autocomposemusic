@@ -1,0 +1,12 @@
+"""
+@author: Li.Z.F
+@time: 2018/11/16 
+"""
+所需环境
+Python
+tensorflow
+pip install keras
+pip install music21
+pip install h5py
+brew install timidity
+brew install ffmpeg
