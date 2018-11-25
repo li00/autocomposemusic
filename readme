@@ -10,3 +10,10 @@ pip install music21
 pip install h5py
 brew install timidity
 brew install ffmpeg
+
+运行步骤
+先训练模型后再生成音乐
+
+训练入口 train.py
+生成入口 generate.py
+
